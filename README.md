@@ -23,7 +23,7 @@
 <a href="https://kaggle.com/ankit9211maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankit9211maurya" height="30" width="40" /></a>
 <a href="https://instagram.com/_aankit.maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aankit.maurya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ankit9211maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankit9211maurya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankit maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankit maurya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/GbsGDxoIse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="GbsGDxoIse" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
